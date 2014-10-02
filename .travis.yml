@@ -7,6 +7,5 @@ go:
  - tip
 env: MARTINI_ENV=test
 install: curl -s https://raw.githubusercontent.com/pote/gpm/v1.3.1/bin/gpm | bash
-before_script: go build
 script:
  - make test
