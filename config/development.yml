@@ -1,0 +1,6 @@
+app:
+  name: Tecna - Development
+  description: The powerful stack for making awesome apis with go lang
+database:
+  url: mongodb://localhost:27017
+  dbname: tecnadb-dev

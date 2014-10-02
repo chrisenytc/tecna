@@ -1,0 +1,6 @@
+github.com/go-martini/martini
+github.com/martini-contrib/binding
+github.com/martini-contrib/render
+gopkg.in/mgo.v2 					v2
+gopkg.in/mgo.v2/bson
+gopkg.in/yaml.v2
